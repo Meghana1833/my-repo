@@ -1,2 +1,1 @@
-This is assignment for the git lifecycle 
- 
+This is assignment for the life cycle
