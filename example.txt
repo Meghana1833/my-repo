@@ -1,1 +1,2 @@
 This is assignment for the life cycle
+now i am writing commands for the assignment of the git life cycle 
