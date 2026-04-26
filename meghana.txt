@@ -1,2 +1,4 @@
 This is for the 7 assignment
 the 7th assignment is resolving merge conflicts
+
+This is also for assgnment to make changes in the file 
